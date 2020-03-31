@@ -1,0 +1,8 @@
+instructions on how to use the program 
+1.execute the prograam on an appropriate compiler which can run python programmes.
+2.after the execution when it asks to enter the elements of the puzzle one has to type from left to right of each row .
+3. for every empty column user has to give 0 'zero' as an input.
+4. for every element the user types press 'enter' key for going to the next column
+5. giving elements more than a single digit that to apart from (0-9) including empty space ,results in syntax error or strin error or end of line parsing.
+6. once the user has given 81 inputs that is 9 rows each consisting of 9 elements,the user has to press enter.
+7. then it displays the rusultant puzzle board and the resultant solved board after solving.
